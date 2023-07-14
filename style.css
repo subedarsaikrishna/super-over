@@ -1,0 +1,33 @@
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@1,600&display=swap');
+</style>
+
+body{
+    font-family: 'Fira Sans', sans-serif;
+    background-color: blue;
+    padding: 100px;
+    
+}
+.team{
+    width: 40%;
+    height: 350px;
+    background-color: brown;
+    color: black;
+    padding: 20px;
+    margin-right: 20px;
+    float:left;
+    font-size: 32px;
+}
+
+button{
+    width: 500px;
+    font-size: 40px;
+    background-color: beige;
+    color: black;
+    padding: 100px;
+    margin-top: 100px;
+}
+.winner{
+    background-color: yellow;
+    color: white;
+}
